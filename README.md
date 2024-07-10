@@ -1,2 +1,2 @@
-# common_database
+# CommonDatabase
 Framework for accessing astronomical databases using Python and SQL.
